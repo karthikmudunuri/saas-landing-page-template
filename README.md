@@ -63,8 +63,8 @@ Template for saas landing page with dark theme using Next.js 14, React, Tailwind
    npm run dev
    ```
 
-5. Open the [Sections](https://github.com/karthikmudunuri/portfolio-template/tree/main/app/sections) folder and make changes
+5. Open the [Components](https://github.com/karthikmudunuri/saas-landing-page-template/tree/main/src/components) folder and make changes
 
 # License
 
-Licensed under the [MIT license](https://github.com/karthikmudunuri/portfolio-template/blob/main/LICENSE.md).
+Licensed under the [MIT license](https://github.com/karthikmudunuri/saas-landing-page-template/blob/main/LICENSE.md).
