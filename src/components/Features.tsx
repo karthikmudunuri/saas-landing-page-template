@@ -12,7 +12,7 @@ export const Features = () => {
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius, odit in facilis mollitia dolorum rerum.
         </p>
         </div>
-        <div className="flex flex-col items-center justify-center sm:flex-row gap-4">
+        <div className="flex flex-col items-center justify-center sm:flex-row gap-4 mt-32">
           <Bentodemo />
           
 
