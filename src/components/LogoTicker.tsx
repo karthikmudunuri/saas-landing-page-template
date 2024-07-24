@@ -4,6 +4,8 @@ import echoLogo from "../assets/images/echo.png";
 import celestialLogo from "../assets/images/celestial.png";
 import pulseLogo from "../assets/images/pulse.png";
 import apexLogo from "../assets/images/apex.png";
+import Image from 'next/image';
+import LogoCarousel from "./companylogos";
 
 const images = [
   { src: acmeLogo, alt: "Acme Logo" },
@@ -15,5 +17,15 @@ const images = [
 ];
 
 export const LogoTicker = () => {
-  return null;
+  return(
+    <div className="bg-black text-white py-[72px] sm:py-24">
+      <div className="container">
+        <h2 className="text-lg text-center text-white/70 mb-16">Trusted by world's most innovative teams</h2>
+        <LogoCarousel/>
+        
+        
+      </div>
+
+    </div>
+  )
 };

@@ -11,9 +11,27 @@ const config: Config = {
       container: {
         padding: '1rem', 
         center: true,
-      }
+      },
+      keyframes: {
+        'infinite-scroll': {
+          from: { transform: 'translateX(0)' },
+          to: { transform: 'translateX(-100%)' },
+        },  
+        gradient: {
+          to: {
+            backgroundPosition: "var(--bg-size) 0",
+          },
+        },
+      },
+      animation: {
+        'infinite-scroll': 'infinite-scroll 25s linear infinite',
+        gradient: "gradient 8s linear infinite",
+       
+      },
+      
     },
   },
-  plugins: [],
+  
+  plugins: [require("tailwindcss-animate")],
 };
 export default config;
