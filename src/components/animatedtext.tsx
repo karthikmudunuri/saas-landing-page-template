@@ -6,7 +6,7 @@ import AnimatedGradientText from "./animatedgradienttext";
 
 export async function AnimatedGradientTextDemo() {
   return (
-    <div className="z-10 flex  items-center justify-center">
+    <div className="z-10 flex -mt-9 items-center justify-center">
       <AnimatedGradientText>
         🎉 <hr className="mx-2 h-4 w-[1px] shrink-0 bg-gray-300" />{" "}
         <span
