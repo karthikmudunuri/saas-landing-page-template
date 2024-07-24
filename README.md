@@ -20,7 +20,7 @@
 
 <!-- ABOUT THE TEMPLATE -->
 
-<div align="center">
+<div align="center mt-5">
 
  <img width="1420" alt="saas-landing" src="https://github.com/user-attachments/assets/fcaf6b8d-004b-41d5-a1f8-8b609d626950">
 
