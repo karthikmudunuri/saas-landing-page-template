@@ -13,7 +13,7 @@ export const Navbar = () => {
       <div className="relative">
         <div className='absolute w-full top-2 bottom-0 bg-[linear-gradient(to_right,#F7AABE,#B57CEC,#E472D1)] blur-md '></div>
 
-      <LogoImage className="h-12 w-12 relative"/>
+      <LogoImage className="h-12 w-12 relative mt-1"/>
       </div>
       <div className='border border-white border-opacity-30 h-10 w-10 inline-flex justify-center items-center rounded-lg sm:hidden'>
 
