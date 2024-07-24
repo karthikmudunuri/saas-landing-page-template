@@ -1,8 +1,7 @@
 <div align="center">
   <a href="https://github.com/karthikmudunuri/eldoraui">
 
-
- <img src="https://github.com/user-attachments/assets/02d84173-c513-4180-936f-35c24ec38209" alt="Logo" width="60" height="60">
+ <img src="https://github.com/user-attachments/assets/54c559b8-0dd1-4ef8-a3d0-06f5086224b0" alt="Logo" width="60" height="60">
   </a>
   <h1 align="center">Eldora UI</h1>
   <p align="center">
@@ -23,14 +22,14 @@
 
 <div align="center">
 
- <img width="1425" alt="Portfolio-template" src="https://github.com/user-attachments/assets/265fa13e-98ed-4c99-bd7f-ce7efe19627f">
+ <img width="1420" alt="saas-landing" src="https://github.com/user-attachments/assets/fcaf6b8d-004b-41d5-a1f8-8b609d626950">
 
  
 </div>
 
-# Portfolio 
+# Saas Landing Page
 
-Minimalist developer portfolio using Next.js 14, React, TailwindCSS, Framer motion
+Template for saas landing page with dark theme using Next.js 14, React, TailwindCSS, Framer motion
 
 # Features
 
