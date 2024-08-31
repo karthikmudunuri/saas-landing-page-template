@@ -16,7 +16,7 @@ export const Hero = () => {
       </div>
       <div className="flex justify-center mt-8 ">
       <div className="inline-flex relative">
-      <h1 className='text-7xl sm:text-9xl font-bold tracking-tightner text-center inline-flex'>Eldora UI <br/> is more</h1>
+      <h1 className='text-7xl sm:text-9xl font-bold tracking-tightner text-center inline-flex'>Akera UI <br/> is more</h1>
       <motion.div className='absolute right-[478px] top-[108px] hidden sm:inline'
       drag
       dragSnapToOrigin
